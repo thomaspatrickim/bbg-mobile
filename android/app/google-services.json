@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987969327785",
+    "firebase_url": "https://best-business-guide.firebaseio.com",
+    "project_id": "best-business-guide",
+    "storage_bucket": "best-business-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987969327785:android:41c8762934d30aa2",
+        "android_client_info": {
+          "package_name": "com.bestbusinessguide.bbgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987969327785-l32a44rlk9j7066jc9s3o33r7id7l15u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnYwcpMluaaxg3jKK3ro9gYfroDTIukg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987969327785-l32a44rlk9j7066jc9s3o33r7id7l15u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987969327785-mq4t47m3aottad37spd5g72acubuas2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "im.bbg-ios1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

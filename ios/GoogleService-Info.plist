@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>987969327785-mq4t47m3aottad37spd5g72acubuas2q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.987969327785-mq4t47m3aottad37spd5g72acubuas2q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxKR_k1BxDlbu-4_QjKj6UwFulnPYLvtg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>987969327785</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>im.bbg-ios1</string>
+	<key>PROJECT_ID</key>
+	<string>best-business-guide</string>
+	<key>STORAGE_BUCKET</key>
+	<string>best-business-guide.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:987969327785:ios:e7f6d41a2a7c0f86</string>
+	<key>DATABASE_URL</key>
+	<string>https://best-business-guide.firebaseio.com</string>
+</dict>
+</plist>
